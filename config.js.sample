@@ -1,0 +1,13 @@
+var config = {
+	credentials : {
+		accountName : 'steamaccountname',
+		password : 'steampassword'
+	},
+	bot : {
+		name : "BotDisplayName"
+	},
+
+	guild : "GuildName"
+};
+
+module.exports = config;
